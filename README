@@ -3,8 +3,8 @@ VMProtect project
 
 Building
 
-	POSIX:
-		$ ./build.sh
+   POSIX:
+	$ ./build.sh
 
-	Windows:
-		> build.bat
+   Windows:
+	> build.bat
